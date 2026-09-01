@@ -34,6 +34,6 @@ class Serie:
 serie1 = Serie("Owari no Seraph", "Fantasia&Anime", 2015, 2, 24)
 serie2 = Serie("Given", "Drama&Anime", 2016, 1, 11)
 serie3 = Serie("Julie and the Phantoms", "musical", "L", 1, 9)
-
+serie4 = Serie("STranger Things", "sci-fi", 16, 5, "muitos"
 
         
